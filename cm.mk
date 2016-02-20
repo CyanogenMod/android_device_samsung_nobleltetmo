@@ -2,6 +2,9 @@
 $(call inherit-product, device/samsung/nobleltetmo/nobleltetmo.mk)
 $(call inherit-product, device/samsung/noblelte-common/noblelte.mk)
 
+# Inherit from the 64 bit configuration
+$(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit.mk)
+
 # Inherit from the common Open Source product configuration
 $(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 

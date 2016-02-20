@@ -1,4 +1,4 @@
-LOCAL_PATH := device/samsung/nobletmo
+LOCAL_PATH := device/samsung/nobleltetmo
 
 ###########################################################
 ### FLAT DEVICE TREE

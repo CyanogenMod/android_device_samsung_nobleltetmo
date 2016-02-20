@@ -1,2 +1,2 @@
-add_lunch_combo cm_nobletmo-eng
-add_lunch_combo cm_nobletmo-userdebug
+add_lunch_combo cm_nobleltetmo-eng
+add_lunch_combo cm_nobleltetmo-userdebug

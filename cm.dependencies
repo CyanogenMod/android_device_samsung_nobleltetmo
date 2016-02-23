@@ -1,6 +1,6 @@
 [
     {
-        "repository": "android_device_noblelte-common",
+        "repository": "android_device_samsung_noblelte-common",
         "target_path": "device/samsung/noblelte-common"
     }
 ]

@@ -8,7 +8,7 @@ TARGET_KERNEL_CONFIG := cm_nobleltetmo_defconfig
 BOARD_MODEM_TYPE := ss333
 
 # Recovery
-TARGET_OTA_ASSERT_DEVICE := nobleltetmo
+TARGET_OTA_ASSERT_DEVICE := nobleltetmo,noblelte
 
 # Inherit common board flags
 include device/samsung/noblelte-common/BoardConfigCommon.mk
